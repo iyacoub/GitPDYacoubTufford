@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-"update on master" 
-=======
-"initial content" 
-"update on newbranch" 
->>>>>>> newbranch
+"merged version" 
